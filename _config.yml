@@ -110,7 +110,7 @@ disqus:
 #################################### global configure #######################################
 
 username: mbzx
-baseurl: /StrayBirds
+baseurl: /gw
 markdown: redcarpet
 safe: false
 highlighter: pygments

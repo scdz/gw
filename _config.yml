@@ -63,7 +63,7 @@ nav:
 
 #Author config
 author:
-    name: dzcq
+    name: scdz
     email: 86204711@qq.com
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: 我是 半个我
@@ -109,7 +109,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: mbzx
+username: scdz
 baseurl: /gw
 markdown: redcarpet
 safe: false
